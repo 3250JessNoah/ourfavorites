@@ -3,3 +3,6 @@ ice cream
 tostadas
 chicken
 nachos
+pizza
+hot chocolate
+potatoes
